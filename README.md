@@ -1,2 +1,2 @@
 # milky-way
-Budget synthesizers designed to be accessible to anybody
+A budget synthesizer designed to be accessible to anyone 
